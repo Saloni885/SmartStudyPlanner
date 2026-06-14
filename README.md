@@ -21,5 +21,6 @@ This project was developed for the **Microsoft Agents League Hackathon** under t
    ```bash
    git clone https://github.com/Saloni885/SmartStudyPlanner.git
    cd SmartStudyPlanner
-2. Project Video Link
+2. Project Demo Video:
+     
    https://1drv.ms/v/c/cba71d6c39e3752b/IQBPDRaut_F9R6wh--4H1Qy7ARtSR9XycozJ0sbxx2lB52s
